@@ -229,4 +229,4 @@ class ImageGenerator(object):
 
     def _wrap_in_dictionary(self, image_array, targets):
         return [{'input_1':image_array},
-                {'predictions':targets}]
+                {'reshape_2':targets}]
