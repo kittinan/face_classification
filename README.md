@@ -6,8 +6,9 @@ Real-time face detection and emotion/gender classification using fer2013/IMDB da
 For more information please consult the [publication](https://github.com/oarriaga/face_classification/blob/master/report.pdf)
 
 # Emotion/gender examples:
-
+![alt tag](images/predicted_test_image.png)
 ![alt tag](images/demo_results.png)
+
 
 Guided back-prop
 ![alt tag](images/gradcam_results.png)
